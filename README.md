@@ -1,4 +1,4 @@
-# enhanced_selection (selectize.js(https://github.com/selectize/selectize.js) plugin)
+# enhanced_selection ([selectize.js](https://github.com/selectize/selectize.js) plugin)
 
 See the [Selectize Plugin Docs](https://github.com/brianreavis/selectize.js/blob/master/docs/plugins.md) for general use instructions.
 
